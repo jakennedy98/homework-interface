@@ -6,7 +6,8 @@ This application allows me to create articles, videos, flashcard sets, and quizz
 
 Skills used:
 
-- Django (Django REST Framework)Javascript
+- Django (Django REST Framework)
+- Javascript
 - PostgreSQLReact
 - ReactReact
 - AWS
